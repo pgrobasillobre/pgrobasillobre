@@ -5,7 +5,7 @@ I am a Software Developer and Computational Chemist with a passion for solving c
 - 🔭 I’m currently working on **software development** for **computational chemistry** and **data analysis** for my Ph.D. project at the [Scuola Normale Superiore](https://www.sns.it/en) in Italy.
 - 💻 My toolkit includes: Fortran, Python, Git, and more.
 - 🌱 I’m currently learning about Rust 🦀.
-- 💼 I contribute to the Amsterdam Modeling Suite and nanoFQ projects.
+- 💼 I contribute to the [Amsterdam Modeling](https://www.scm.com/) Suite and [nanoFQ](https://pubs.acs.org/doi/full/10.1021/acsphotonics.2c00761) projects.
 - 📂 Check out my repositories:
   - [FRET_Embedlab](https://github.com/pgrobasillobre/FRET_Embedlab) - Charge-transfer evaluation between molecules mediated by nanoparticles.
   - [GEOM](https://github.com/pgrobasillobre/geom) - Handling of molecular geometries and nanoparticles' design.
