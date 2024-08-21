@@ -10,7 +10,7 @@ I am a Software Developer and Computational Chemist with a passion for solving c
   - [FRET_Embedlab](https://github.com/pgrobasillobre/FRET_Embedlab) - Charge-transfer evaluation between molecules mediated by nanoparticles.
   - [GEOM](https://github.com/pgrobasillobre/geom) - Handling of molecular geometries and nanoparticles' design.
 - 🤝 I’m open to collaborating on exciting projects related to software development and data science.
-- 📫 How to reach me: [pgrobasillobre@gmail.com] | [LinkedIn](https://www.linkedin.com/in/pablo-grobas-illobre-0290b0191/)
+- 📫 How to reach me: pgrobasillobre@gmail.com | [LinkedIn](https://www.linkedin.com/in/pablo-grobas-illobre-0290b0191/)
 
 ⚡ I love experimenting with new data visualization techniques!
 
