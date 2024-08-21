@@ -7,8 +7,8 @@ I am a Software Developer and Computational Chemist with a passion for solving c
 - 🌱 I’m currently learning about Rust 🦀.
 - 💼 I contribute to the [Amsterdam Modeling Suite](https://www.scm.com/) and [nanoFQ](https://pubs.acs.org/doi/full/10.1021/acsphotonics.2c00761) projects.
 - 📂 Check out my repositories:
-  - [FRET_Embedlab](https://github.com/pgrobasillobre/FRET_Embedlab) - Charge-transfer evaluation between molecules mediated by nanoparticles.
-  - [GEOM](https://github.com/pgrobasillobre/geom) - Handling of molecular geometries and nanoparticles' design.
+  - [FRET_Embedlab](https://github.com/pgrobasillobre/FRET_Embedlab) - Evaluating charge-transfer between molecules mediated by nanoparticles.
+  - [GEOM](https://github.com/pgrobasillobre/geom) - Managing molecular geometries and designing nanoparticles.
 - 🤝 I’m open to collaborating on exciting projects related to software development and data science.
 - 📫 How to reach me: pgrobasillobre@gmail.com | [LinkedIn](https://www.linkedin.com/in/pablo-grobas-illobre-0290b0191/)
 
