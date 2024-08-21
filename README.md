@@ -15,5 +15,5 @@ I am a Software Developer and Computational Chemist with a passion for solving c
 ⚡ I love experimenting with new data visualization techniques!
 
 <div align="center">
-    <img src="images/fluorescence_enh.png" alt="Fluorescence Enhancement" width="300"/>
+    <img src="images/fluorescence_enh.png" alt="Fluorescence Enhancement" width="350"/>
 </div>
