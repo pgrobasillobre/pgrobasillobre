@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Pablo!
 
-I am a Software Developer and Computational Chemist with a passion for solving complex problems through code. My work focuses on developing software tools and performing data analysis to advance research in chemistry.
+I am a Software Developer and Computational Chemist with a passion for solving complex problems through code. My work focuses on developing software tools for advanced research in chemistry.
 
 - 🔭 I’m currently working on **software development** for **computational chemistry** and **data analysis** as part of my Ph.D. project at the [Scuola Normale Superiore](https://www.sns.it/en) in Italy.
 - 💻 My toolkit includes: Fortran, Python, Git, and more.
