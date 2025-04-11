@@ -2,7 +2,7 @@
 
 I'm a **Software Developer** and **Computational Chemist** with a strong focus on scientific programming and quantum chemistry. I specialize in developing high-performance tools to study light–matter interactions at the nanoscale.
 
-Currently, I'm a postdoctoral researcher at the [Scuola Normale Superiore](https://www.sns.it/en) in Pisa, Italy, where I also completed my Ph.D. in Methods and Models for Molecular Sciences. My research combines **quantum chemistry**, **computational spectroscopy**, and **software development** to explore physical phenomena involving plasmonic materials.
+Currently, I'm a postdoctoral researcher at the [Scuola Normale Superiore](https://www.sns.it/en) in Pisa, Italy, where I also completed my Ph.D. *cum laude* in Methods and Models for Molecular Sciences. My research combines **quantum chemistry**, **computational spectroscopy**, and **software development** to explore physical phenomena involving plasmonic materials.
 
 ### Research & Development Focus
 
