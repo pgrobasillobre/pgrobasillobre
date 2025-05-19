@@ -15,7 +15,7 @@ Currently, I'm a postdoctoral researcher at the [Scuola Normale Superiore](https
 
 ### Selected Projects
 
-- [GEOM](https://github.com/pgrobasillobre/geom): **AI-interfaced** tools for nanoparticle design and molecular geometries manipulation
+- [GEOM](https://github.com/pgrobasillobre/geom/tree/branch-v1.1.0): **AI-interfaced** tools for nanoparticle design and molecular geometries manipulation
 - [FretLab](https://github.com/pgrobasillobre/FretLab): Modeling electronic energy transfer mediated by plasmonic materials
 - Contributor to [PlasmonX](https://pubs.acs.org/doi/full/10.1021/acsphotonics.2c00761) and the [Amsterdam Modeling Suite](https://www.scm.com/)
 
