@@ -30,5 +30,7 @@ Currently, I'm a postdoctoral researcher at the [Scuola Normale Superiore](https
 
 I’m currently transitioning from academia to industry, aiming to apply my skills in machine learning, software development, and data science to solve real-world problems. Long-term, I hope to return to my hometown, A Coruña, and contribute to its local tech and research ecosystem.
 
-Contact: pgrobasillobre@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/grobas-illobre/)
+### Contact
+
+email: pgrobasillobre@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/grobas-illobre/)
