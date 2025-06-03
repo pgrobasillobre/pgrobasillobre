@@ -33,4 +33,4 @@ I’m currently transitioning from academia to industry, aiming to apply my skil
 ### Contact
 
 email: pgrobasillobre@gmail.com  
-[LinkedIn](https://www.linkedin.com/in/grobas-illobre/)
+Linkedin: https://www.linkedin.com/in/grobas-illobre
