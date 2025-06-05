@@ -27,7 +27,7 @@ Currently, I'm a postdoctoral researcher at the [Scuola Normale Superiore](https
 - **Languages**: Fortran, Python, Matlab, Bash
 - **Core libraries**: PyTorch, TensorFlow, Autogen, SciPy, Matplotlib, Pandas, NumPy  
 - **Tools**: Git, LaTeX, Jupyter  
-- **Focus areas**: Machine learning, quantum chemistry, scientific computing, data visualization
+- **Focus areas**: Machine learning, QM/MM, quantum chemistry, scientific computing, data visualization
 
 ### About Me
 
