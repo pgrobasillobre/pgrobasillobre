@@ -9,7 +9,7 @@ Currently, I'm a postdoctoral researcher at the [Scuola Normale Superiore](https
 ### Research & Development Focus
 
 - **Python** development for **machine learning**, **data analysis**, and **visualization**
-- **Fortran & C++ software development** for **QM/MM quantum chemistry**, in collaboration with [Software for Chemistry & Materials (SCM)](https://www.scm.com/)
+- **C++ & Fortran software development** for **QM/MM quantum chemistry**, in collaboration with [Software for Chemistry & Materials (SCM)](https://www.scm.com/)
 - Applied research in:
   - **QM/MM Surface-enhanced spectroscopies**: fluorescence, Raman scattering, and Raman optical activity
   - **Plasmonic materials**: graphene and metal nanoparticles  
