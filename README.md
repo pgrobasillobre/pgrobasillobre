@@ -2,7 +2,7 @@
 
 I'm a Computational Chemist and Software Developer with 6+ years of experience, specializing in quantum chemistry and scientific programming. I develop high-performance tools to study QM/MM light–matter interactions at the nanoscale.
 
-Currently, I'm a postdoctoral researcher at the [Scuola Normale Superiore](https://www.sns.it/en) in Pisa, Italy, where I also completed my Ph.D. *cum laude* in Methods and Models for Molecular Sciences. My research combines **machine learning**, **software engineering**, and **QM/MM quantum chemistry** to investigate physical phenomena involving **molecular systems influenced by plasmonic materials.**
+Currently, I'm a postdoctoral researcher at the [Scuola Normale Superiore](https://www.sns.it/en) in Pisa, Italy, where I also completed my Ph.D. *cum laude* in Methods and Models for Molecular Sciences. My research combines **machine learning**, **software developmnt**, and **QM/MM quantum chemistry** to investigate physical phenomena involving **molecular systems influenced by plasmonic materials.**
 
 
 
