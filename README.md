@@ -5,9 +5,10 @@ I'm a **Computational Chemist** and **Scientific Software Developer** with 6+ ye
 Currently, I'm a senior postdoctoral researcher at the [Scuola Normale Superiore](https://www.sns.it/en) in Pisa, Italy, where I also completed my Ph.D. *with honors* in Methods and Models for Molecular Sciences.  
 My research combines **software development**, **QM/MM quantum chemistry**, and **machine learning** to investigate physical phenomena involving molecular systems interacting with their environments — such as solvents and materials.
 
+---
 
+### 🔬 Research & Development Focus
 
-### Research & Development Focus
 
 - **C++ & Fortran software development** for **QM/MM quantum chemistry**, in collaboration with [Software for Chemistry & Materials (SCM)](https://www.scm.com/)
 - **Python** development for **machine learning**, **data analysis**, and **visualization**
@@ -17,7 +18,10 @@ My research combines **software development**, **QM/MM quantum chemistry**, and 
   - **Plasmon-mediated electronic energy transfer**  
   
 
-### Selected Projects
+---
+
+### 🧩 Selected Projects
+
 
 - Industry collaboration with developers of the [Amsterdam Modeling Suite](https://www.scm.com/)
 - [GEOM](https://github.com/pgrobasillobre/geom/tree/branch-v1.1.0): **AI-interfaced** tools for nanoparticle design and molecular geometry manipulation
@@ -25,18 +29,27 @@ My research combines **software development**, **QM/MM quantum chemistry**, and 
 - [PlasmonX](https://github.com/plasmonX/plasmonX): Open-source code for nanoplasmonics research
 
 
-### Skills & Tools
+---
+
+### 🧠 Skills & Tools
+
 
 - **Languages**: C++, Fortran, Python, Matlab, Bash
 - **Core libraries**: RDKit, PyTorch, TensorFlow, Autogen, SciPy, Matplotlib, Pandas, NumPy  
 - **Tools**: Git, LaTeX, Jupyter  
 - **Focus areas**: QM/MM, Machine learning, quantum chemistry, scientific computing, data visualization
 
-### About Me
+---
+
+### 🌍 About Me
+
 
 I’m currently transitioning from academia to industry, seeking to apply my skills to solve real-world challenges in **drug discovery** and **molecular modeling**. Long-term, I hope to return to my hometown, **A Coruña**, and contribute to its local tech and research ecosystem.
 
-### Contact
+---
 
-LinkedIn: https://www.linkedin.com/in/grobas-illobre
-Website: https://www.pgrobasillobre.com
+### 📫 Contact
+- **LinkedIn**: [linkedin.com/in/grobas-illobre](https://www.linkedin.com/in/grobas-illobre)  
+- **Website**: [pgrobasillobre.com](https://www.pgrobasillobre.com)
+
+
