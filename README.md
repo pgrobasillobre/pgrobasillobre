@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Pablo!
 
-I'm a Computational Chemist and Software Developer with 6+ years of experience, specializing in **quantum chemistry** and **high-performance scientific software development** for **QM/MM** simulations.
+I'm a **Computational Chemist** and **Scientific Software Developer** with 6+ years of experience, specializing in **quantum chemistry** and **high-performance scientific software development** for **QM/MM** simulations.
 
 Currently, I'm a senior postdoctoral researcher at the [Scuola Normale Superiore](https://www.sns.it/en) in Pisa, Italy, where I also completed my Ph.D. *with honors* in Methods and Models for Molecular Sciences.  
 My research combines **software development**, **QM/MM quantum chemistry**, and **machine learning** to investigate physical phenomena involving molecular systems interacting with their environments — such as solvents and materials.
