@@ -23,10 +23,10 @@ My research combines **software development**, **QM/MM quantum chemistry**, and 
 ### 🧩 Selected Projects
 
 
-- Industry collaboration with developers of the [Amsterdam Modeling Suite](https://www.scm.com/)
-- [GEOM](https://github.com/pgrobasillobre/geom/tree/branch-v1.1.0): **AI-interfaced** tools for nanoparticle design and molecular geometry manipulation
-- [FretLab](https://github.com/pgrobasillobre/FretLab-Cpp): Modeling electronic energy transfer mediated by plasmonic materials
-- [PlasmonX](https://github.com/plasmonX/plasmonX): Open-source code for nanoplasmonics research
+- **Industry collaboration** with developers of the [Amsterdam Modeling Suite](https://www.scm.com/)
+- [GEOM](https://github.com/pgrobasillobre/geom/tree/branch-v1.1.0): *Python*: **AI-interfaced** tools for **drug discovery - small molecule design** and **nanoparticle** creation
+- [FretLab](https://github.com/pgrobasillobre/FretLab-Cpp): *C++/Fortran*: Modeling electronic energy transfer mediated by plasmonic materials
+- [PlasmonX](https://github.com/plasmonX/plasmonX): *Fortran/Python*: Open-source code for nanoplasmonics research
 
 
 ---
