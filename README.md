@@ -13,9 +13,7 @@ Currently, I'm a **senior postdoctoral researcher** at the [Scuola Normale Super
 
 My research combines **software development**, **QM/MM quantum chemistry**, and **machine learning** to investigate physical phenomena involving molecular systems interacting with their environments — such as **solvents and materials**.
 
-<br>
 
----
 
 <br>
 
@@ -28,9 +26,6 @@ My research combines **software development**, **QM/MM quantum chemistry**, and 
   - **Plasmonic materials**: graphene and metal nanoparticles  
   - **Plasmon-mediated electronic energy transfer**
 
-<br>
-
----
 
 <br>
 
@@ -41,9 +36,8 @@ My research combines **software development**, **QM/MM quantum chemistry**, and 
 - [**FretLab**](https://github.com/pgrobasillobre/FretLab-Cpp) *(C++/Fortran)* — Modeling electronic energy transfer mediated by plasmonic materials  
 - [**PlasmonX**](https://github.com/plasmonX/plasmonX) *(Fortran/Python)* — **Open-source** code for nanoplasmonics research
 
-<br>
 
----
+<br>
 
 ## 🧠 Skills & Tools
 
@@ -70,7 +64,6 @@ My research combines **software development**, **QM/MM quantum chemistry**, and 
   </tr>
 </table>
 
----
 
 <br>
 
@@ -79,21 +72,20 @@ My research combines **software development**, **QM/MM quantum chemistry**, and 
 I’m currently transitioning from academia to industry, seeking to apply my skills to solve real-world challenges in **drug discovery** and **molecular modeling**.  
 Long-term, I hope to return to my hometown, **A Coruña**, and contribute to its local tech and research ecosystem.
 
-<br>
 
----
 
 <br>
 
 ## 📫 Contact
 
+
 <p align="center">
   <a href="https://www.linkedin.com/in/grobas-illobre" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Pablo%20Grobas%20Illobre-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img height="32" src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.pgrobasillobre.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-pgrobasillobre.com-forestgreen?logo=google-chrome&logoColor=white" alt="Website"/>
+    <img height="32" src="https://img.shields.io/badge/Website-pgrobasillobre.com-2E7D32?logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
 </p>
 
