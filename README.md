@@ -45,6 +45,8 @@ My research combines **software development**, **QM/MM quantum chemistry**, and 
 
 ---
 
+## 🧠 Skills & Tools
+
 <table align="center">
   <tr>
     <th style="text-align:center; background-color:#f2f2f2;">Category</th>
