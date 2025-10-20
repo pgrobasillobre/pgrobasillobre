@@ -1,7 +1,9 @@
-<h1 align="center">Hi there 👋, I'm <b>Pablo</b>!</h2>
-<h3 align="center">Computational Chemist · Scientific Software Developer</h4>
+<h1 align="center">Hi there 👋, I'm <b>Pablo</b>!</h1>
+<h3 align="center">Computational Chemist · Scientific Software Developer</h3>
 
 ---
+
+<br>
 
 ## 🧪 About Me
 
@@ -11,7 +13,11 @@ Currently, I'm a **senior postdoctoral researcher** at the [Scuola Normale Super
 
 My research combines **software development**, **QM/MM quantum chemistry**, and **machine learning** to investigate physical phenomena involving molecular systems interacting with their environments — such as **solvents and materials**.
 
+<br>
+
 ---
+
+<br>
 
 ## 🔬 Research & Development Focus
 
@@ -22,7 +28,11 @@ My research combines **software development**, **QM/MM quantum chemistry**, and 
   - **Plasmonic materials**: graphene and metal nanoparticles  
   - **Plasmon-mediated electronic energy transfer**
 
+<br>
+
 ---
+
+<br>
 
 ## 🧩 Selected Projects
 
@@ -31,25 +41,47 @@ My research combines **software development**, **QM/MM quantum chemistry**, and 
 - [**FretLab**](https://github.com/pgrobasillobre/FretLab-Cpp) *(C++/Fortran)* — Modeling electronic energy transfer mediated by plasmonic materials  
 - [**PlasmonX**](https://github.com/plasmonX/plasmonX) *(Fortran/Python)* — **Open-source** code for nanoplasmonics research
 
----
-
-## 🧠 Skills & Tools
-
-| **Category** | **Details** |
-|---------------|-------------|
-| **Languages** | C++, Fortran, Python, Matlab, Bash |
-| **Core Libraries** | RDKit, PyTorch, TensorFlow, Autogen, SciPy, Matplotlib, Pandas, NumPy |
-| **Tools** | Git, LaTeX, Jupyter |
-| **Focus Areas** | QM/MM, Machine Learning, Quantum Chemistry, Scientific Computing, Data Visualization |
+<br>
 
 ---
+
+<table align="center">
+  <tr>
+    <th style="text-align:center; background-color:#f2f2f2;">Category</th>
+    <th style="text-align:center; background-color:#f2f2f2;">Details</th>
+  </tr>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>C++, Fortran, Python, Matlab, Bash</td>
+  </tr>
+  <tr>
+    <td><b>Core Libraries</b></td>
+    <td>RDKit, PyTorch, TensorFlow, Autogen, SciPy, Matplotlib, Pandas, NumPy</td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td>Git, LaTeX, Jupyter</td>
+  </tr>
+  <tr>
+    <td><b>Focus Areas</b></td>
+    <td>QM/MM, Machine Learning, Quantum Chemistry, Scientific Computing, Data Visualization</td>
+  </tr>
+</table>
+
+---
+
+<br>
 
 ## 🌍 About Me
 
 I’m currently transitioning from academia to industry, seeking to apply my skills to solve real-world challenges in **drug discovery** and **molecular modeling**.  
 Long-term, I hope to return to my hometown, **A Coruña**, and contribute to its local tech and research ecosystem.
 
+<br>
+
 ---
+
+<br>
 
 ## 📫 Contact
 
@@ -57,7 +89,10 @@ Long-term, I hope to return to my hometown, **A Coruña**, and contribute to its
   <a href="https://www.linkedin.com/in/grobas-illobre" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Pablo%20Grobas%20Illobre-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.pgrobasillobre.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-pgrobasillobre.com-forestgreen?logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
 </p>
+
+<br>
