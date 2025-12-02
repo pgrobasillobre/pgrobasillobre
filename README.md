@@ -69,9 +69,7 @@ My research combines **software development**, **QM/MM quantum chemistry**, and 
 
 ## 🌍 About Me
 
-I’m currently transitioning from academia to industry, seeking to apply my skills to solve real-world challenges in **drug discovery** and **molecular modeling**.  
-Long-term, I hope to return to my hometown, **A Coruña**, and contribute to its local tech and research ecosystem.
-
+I’m currently transitioning from academia to industry, seeking to apply my skills to solve real-world challenges in **drug discovery**, **molecular modeling**., and **materials science**. On the side, I’ve been exploring **investment strategies** and **quantitative finance** in the stock market — a fun way to apply my background in data analysis to a completely different domain.
 
 
 <br>
