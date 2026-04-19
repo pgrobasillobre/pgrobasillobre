@@ -1,90 +1,65 @@
-<h1 align="center">Hi there 👋, I'm <b>Pablo</b>!</h1>
-<h3 align="center">Computational Chemist · Scientific Software Developer</h3>
+<h1 align="center">Pablo Grobas Illobre</h1>
+<p align="center">
+Computational Chemist · Scientific Software Developer
+</p>
 
 ---
 
-<br>
+## About
 
-## 🧪 About Me
+Computational chemist and scientific software developer with 6+ years of experience building **scalable molecular simulation and data-driven workflows**.
 
-I'm a **Computational Chemist** and **Scientific Software Developer** with **6+ years of experience**, specializing in **quantum chemistry** and **high-performance scientific software development** for **QM/MM** simulations.
+My work sits at the intersection of:
+- **quantum chemistry (QM/MM)**
+- **machine learning for molecular systems**
+- **high-performance scientific software (C++/Fortran/Python)**
 
-Currently, I'm a **senior postdoctoral researcher** at the [Scuola Normale Superiore](https://www.sns.it/en) in Pisa, Italy, where I also completed my **Ph.D. *with honors*** in *Methods and Models for Molecular Sciences*.  
+I focus on developing **robust, reproducible pipelines** that connect atomistic simulations with data-driven models, with applications in **molecular and materials modelling**.
 
-My research combines **software development**, **QM/MM quantum chemistry**, and **machine learning** to investigate physical phenomena involving molecular systems interacting with their environments — such as **solvents and materials**.
+Currently a senior postdoctoral researcher at the Scuola Normale Superiore (Pisa), working in collaboration with the developers of the Amsterdam Modeling Suite (SCM).
 
+---
 
+## Selected Work
 
-<br>
+- **GEOM** (Python)  
+  AI-driven tools for molecular design and dataset generation, integrating cheminformatics workflows with simulation-ready structures  
+  → https://github.com/pgrobasillobre/geom/tree/branch-v1.1.0  
 
-## 🔬 Research & Development Focus
+- **FretLab** (C++/Fortran)  
+  Simulation framework for electronic energy transfer in complex molecular environments  
+  → https://github.com/pgrobasillobre/FretLab-Cpp  
 
-- **C++ & Fortran software development** for **QM/MM quantum chemistry**, in collaboration with [Software for Chemistry & Materials (SCM)](https://www.scm.com/)
-- **Python** development for **machine learning**, **data analysis**, and **visualization**
-- Applied research in:
-  - **QM/MM Surface-enhanced spectroscopies**: fluorescence, Raman scattering, and Raman optical activity  
-  - **Plasmonic materials**: graphene and metal nanoparticles  
-  - **Plasmon-mediated electronic energy transfer**
+- **PlasmonX** (Fortran/Python)  
+  Open-source code for multiscale nanoplasmonics simulations  
+  → https://github.com/plasmonX/plasmonX  
 
+- Industry collaboration with developers of the Amsterdam Modeling Suite (SCM), contributing to QM/MM methodologies and production-level code
 
-<br>
+---
 
-## 🧩 Selected Projects
+## Technical Profile
 
-- **Industry collaboration** with developers of the [Amsterdam Modeling Suite](https://www.scm.com/)
-- [**GEOM**](https://github.com/pgrobasillobre/geom/tree/branch-v1.1.0) *(Python)* — **AI-interfaced** tools for **drug discovery (small-molecule design)** and **nanoparticle** creation  
-- [**FretLab**](https://github.com/pgrobasillobre/FretLab-Cpp) *(C++/Fortran)* — Modeling electronic energy transfer mediated by plasmonic materials  
-- [**PlasmonX**](https://github.com/plasmonX/plasmonX) *(Fortran/Python)* — **Open-source** code for nanoplasmonics research
+**Programming**  
+C++, Fortran, Python, Bash  
 
+**Scientific & ML stack**  
+RDKit, PyTorch, TensorFlow, NumPy, SciPy, Pandas  
 
-<br>
+**Core expertise**  
+QM/MM simulations · molecular modelling · scientific computing · HPC workflows · data pipelines  
 
-## 🧠 Skills & Tools
+---
 
-<table align="center">
-  <tr>
-    <th style="text-align:center; background-color:#f2f2f2;">Category</th>
-    <th style="text-align:center; background-color:#f2f2f2;">Details</th>
-  </tr>
-  <tr>
-    <td><b>Languages</b></td>
-    <td>C++, Fortran, Python, Matlab, Bash</td>
-  </tr>
-  <tr>
-    <td><b>Core Libraries</b></td>
-    <td>RDKit, PyTorch, TensorFlow, Autogen, SciPy, Matplotlib, Pandas, NumPy</td>
-  </tr>
-  <tr>
-    <td><b>Tools</b></td>
-    <td>Git, LaTeX, Jupyter</td>
-  </tr>
-  <tr>
-    <td><b>Focus Areas</b></td>
-    <td>QM/MM, Machine Learning, Quantum Chemistry, Scientific Computing, Data Visualization</td>
-  </tr>
-</table>
+## Current Focus
 
+- Machine learning models for molecular property prediction (GNN-based approaches)  
+- Integration of classical simulation workflows with quantum computing methods  
+- Scalable data generation and automation on HPC systems  
 
-<br>
+---
 
-## 🌍 About Me
+## Contact
 
-I’m currently transitioning from academia to industry, seeking to apply my skills to solve real-world challenges in **drug discovery**, **molecular modeling**., and **materials science**. On the side, I’ve been exploring **investment strategies** and **quantitative finance** in the stock market — a fun way to apply my background in data analysis to a completely different domain.
-
-
-<br>
-
-## 📫 Contact
-
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/grobas-illobre" target="_blank">
-    <img height="32" src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.pgrobasillobre.com" target="_blank">
-    <img height="32" src="https://img.shields.io/badge/Website-pgrobasillobre.com-2E7D32?logo=google-chrome&logoColor=white" alt="Website"/>
-  </a>
-</p>
-
-<br>
+- LinkedIn: https://www.linkedin.com/in/grobas-illobre  
+- Website: https://www.pgrobasillobre.com  
