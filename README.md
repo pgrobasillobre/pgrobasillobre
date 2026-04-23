@@ -24,7 +24,7 @@ Currently a senior postdoctoral researcher at the Scuola Normale Superiore (Pisa
 
 - **GEOM** (Python)  
   AI-driven tools for molecular design and dataset generation, integrating cheminformatics workflows with simulation-ready structures  
-  → https://github.com/pgrobasillobre/geom/tree/branch-v1.1.0  
+  → https://github.com/pgrobasillobre/geom 
 
 - **FretLab** (C++/Fortran)  
   Simulation framework for electronic energy transfer in complex molecular environments  
